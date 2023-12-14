@@ -8,6 +8,8 @@ Its a simple BMI Calculator made using React, Which calculates the BMI using the
 
 # Creator of project:-
 Name :- Kalyani Laddha 
+
 College Name :- VIT Pune
+
 Mail id :- kalyani.laddha20@vit.edu
 
